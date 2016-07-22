@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ascdc/apache2-php56
 MAINTAINER ASCDC <asdc.sinica@gmail.com>
 
 ADD run.sh /script/run.sh
